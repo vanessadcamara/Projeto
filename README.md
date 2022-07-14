@@ -3,6 +3,7 @@ Este projeto contém um Mapa para visualização da UEA e da Localização Atual
 
 Para rodar o programa:
 > npm install
+> 
 > expo start
 
 ## Imagens da aplicação
