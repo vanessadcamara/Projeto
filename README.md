@@ -2,8 +2,8 @@
 Este projeto contém um Mapa para visualização da UEA e da Localização Atual do usuário, Currículo e Scanner para códigos de barras e qr codes!
 
 Para rodar o programa:
-| npm install
-| expo start
+> npm install
+> expo start
 
 ## Imagens da aplicação
 
