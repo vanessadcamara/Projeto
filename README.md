@@ -2,7 +2,7 @@
 
 O projeto contém um mapa, currículo e scanner
 
-![image](https://user-images.githubusercontent.com/54962431/179033375-a5159729-be3c-474b-b8a3-7bf3305e1e13.png)
+![image](https://user-images.githubusercontent.com/54962431/179033550-e1d8ec44-2813-49be-8631-e3105be07815.png)
 
 ![image](https://user-images.githubusercontent.com/54962431/179033240-7c3f300f-145d-4ec8-bc9d-373e98e0a567.png)
 
