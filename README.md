@@ -3,7 +3,7 @@ Este projeto contém um Mapa para visualização da UEA e da Localização Atual
 
 ## Imagens da aplicação
 
-![image](https://user-images.githubusercontent.com/54962431/179033550-e1d8ec44-2813-49be-8631-e3105be07815.png)
+![image](https://user-images.githubusercontent.com/54962431/179034401-1ec25b65-d2f9-476c-b144-38d38741db87.png)
 
 ![image](https://user-images.githubusercontent.com/54962431/179033240-7c3f300f-145d-4ec8-bc9d-373e98e0a567.png)
 
